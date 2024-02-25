@@ -1,0 +1,4 @@
+.DS_Store
+agentbridge/__pycache__
+tests/__pycache__
+agentbridge/example.py

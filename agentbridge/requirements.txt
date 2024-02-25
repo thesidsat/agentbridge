@@ -1,0 +1,5 @@
+langchain_community==0.0.24
+langchain_core==0.1.26
+langchain_openai==0.0.7
+llama_index==0.10.12
+pandas==2.2.1
